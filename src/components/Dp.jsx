@@ -115,13 +115,13 @@ export default function Dp() {
                     <TwitterIcon sx={{color:`#918E9B`,fontSize:`25px`}} 
                     />
                     </Link>
-                    <Link href='https://www.facebook.com/MKashifSiddiqu/'>
+                    <Link arget={`_blank`} href='https://www.facebook.com/MKashifSiddiqu/'>
                     <FacebookIcon sx={{color:`#918E9B`,fontSize:`25px`}}/>
                     </Link>
-                    <Link href='https://www.instagram.com/mkashifsiddiqu/'>
+                    <Link  arget={`_blank`} href='https://www.instagram.com/mkashifsiddiqu/'>
                     <InstagramIcon sx={{color:`#918E9B`,fontSize:`25px`}}/>
                     </Link>
-                    <Link href='https://github.com/mkashifsiddiqu/'>
+                    <Link  arget={`_blank`} href='https://github.com/mkashifsiddiqu/'>
                     <GitHubIcon sx={{color:`#918E9B`,fontSize:`25px`}}/>
                     </Link>
                 </Box>
